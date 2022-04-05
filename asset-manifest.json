@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/manning-react-01/static/css/main.cfcd511c.css",
-    "main.js": "/manning-react-01/static/js/main.7827cf2b.js",
+    "main.js": "/manning-react-01/static/js/main.eacb4c41.js",
     "static/js/787.02c34f92.chunk.js": "/manning-react-01/static/js/787.02c34f92.chunk.js",
     "static/media/logo.svg": "/manning-react-01/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/manning-react-01/index.html",
     "main.cfcd511c.css.map": "/manning-react-01/static/css/main.cfcd511c.css.map",
-    "main.7827cf2b.js.map": "/manning-react-01/static/js/main.7827cf2b.js.map",
+    "main.eacb4c41.js.map": "/manning-react-01/static/js/main.eacb4c41.js.map",
     "787.02c34f92.chunk.js.map": "/manning-react-01/static/js/787.02c34f92.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cfcd511c.css",
-    "static/js/main.7827cf2b.js"
+    "static/js/main.eacb4c41.js"
   ]
 }
